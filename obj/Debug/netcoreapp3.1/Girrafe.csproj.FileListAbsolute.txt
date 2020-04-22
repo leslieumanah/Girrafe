@@ -1,0 +1,13 @@
+C:\Users\User\Girrafe\bin\Debug\netcoreapp3.1\Girrafe.exe
+C:\Users\User\Girrafe\bin\Debug\netcoreapp3.1\Girrafe.deps.json
+C:\Users\User\Girrafe\bin\Debug\netcoreapp3.1\Girrafe.runtimeconfig.json
+C:\Users\User\Girrafe\bin\Debug\netcoreapp3.1\Girrafe.runtimeconfig.dev.json
+C:\Users\User\Girrafe\bin\Debug\netcoreapp3.1\Girrafe.dll
+C:\Users\User\Girrafe\bin\Debug\netcoreapp3.1\Girrafe.pdb
+C:\Users\User\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.csprojAssemblyReference.cache
+C:\Users\User\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.csproj.CoreCompileInputs.cache
+C:\Users\User\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.AssemblyInfoInputs.cache
+C:\Users\User\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.AssemblyInfo.cs
+C:\Users\User\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.dll
+C:\Users\User\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.pdb
+C:\Users\User\Girrafe\obj\Debug\netcoreapp3.1\Girrafe.genruntimeconfig.cache
